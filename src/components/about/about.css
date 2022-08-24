@@ -1,0 +1,161 @@
+.a{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.a-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+}
+
+.a-right{
+    flex: 1;
+}
+
+.a-cardbg{
+    width: 50%;
+    height: 70vh;
+    position: absolute;
+    top: 30px;
+    left: 80px;
+    background-color: #333;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+.a-card{
+    width: 60%;
+    height: 70vh;
+    position: relative;
+    border-radius: 30px;
+    top: 50px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.a-img{
+    width: 88%;
+    height: 70vh;
+    object-fit: cover;
+}
+
+.a-award-img{
+    width: 160px;
+    height: 120px;
+    border-radius: 20px;
+}
+
+.a-title{
+    font-weight: 400;
+}
+
+.a-sub{
+    margin: 20px 0px;
+}
+
+.a-desc{
+    font-weight: 400;
+}
+
+.a-award{
+    width: 800px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.a-award-title{
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.a-award-desc{
+    width: 600px;
+}
+
+.a-award-text{
+    width: 75%;
+}
+
+.a-award-wrapper{
+    width: 800px;
+    overflow: hidden;
+}
+
+.a-award-ani{
+    display: flex;
+    justify-content: space-between;
+    animation: moves 40s ease-in-out infinite alternate;
+}
+@keyframes moves {
+    5%{
+        transform: translateX(-800px);
+    }
+    10%{
+        transform: translateX(-1600px);
+    }
+    15%{
+        transform: translateX(-2450px);
+    }
+}
+
+@media screen and (max-width:480px) {
+    .a{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .a-left{
+        position: absolute;
+        width: 100%;
+        height: 200px;
+        margin-top: 20px;
+    }
+
+    .a-cardbg{
+        display: none;
+    }
+
+    .a-card{
+        width: 200px;
+        height: 200px;
+        padding: 0px;
+        margin: 0px;
+        top:0;
+    }
+
+    .a-img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .a-award-wrapper{
+        display: none;
+    }
+
+    .a-right{
+        height: 100px;
+        padding: 20px;
+        overflow: hidden;
+        margin-top: 200px;
+    }
+
+    .a-sub{
+        font-size: 13px;
+        text-align: justify;    
+    }
+
+    .a-desc{
+        font-size: 13px;
+        text-align: justify;    
+    }
+}
