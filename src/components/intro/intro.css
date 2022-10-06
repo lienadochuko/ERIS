@@ -29,16 +29,22 @@
 }
 
 .i-name{
-    font-size: 55px;
+    font-size: 50px;
 }
 
 .i-title{
-    height: 50px;
+    display: flex;
+    height: 60px;
     overflow: hidden;
 }
 
 .i-title-wrapper{
     height: 100%;
+    align-items: center;
+    text-align: left;
+    margin: 0%;
+    margin-top: -10px;
+    padding: 0%;
     animation: move 10s ease-in-out infinite alternate;
 }
 
