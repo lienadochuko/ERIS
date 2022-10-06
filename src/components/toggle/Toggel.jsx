@@ -12,11 +12,11 @@ const Toggel = () => {
     theme.dispatch({type:"TOGGLE"})
   }
   return (
-    <div className="t"
+      <div className="t" 
     style={{backgroundColor:theme.state.darkMode ? "#fff" : "#222", border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" }}
     >
         <img src={Sun} alt="" className="t-icon" />
-        <img src={Moon} alt="" className="t-icon" />
+        <img src={Moon} alt="" className="t-icon1" />
         <div className="t-button" onClick={handleClick} 
         style={{left: theme.state.darkMode ? 0 : 25, 
         backgroundColor:theme.state.darkMode ? "#222" : "rgb(172, 167, 2)"}}

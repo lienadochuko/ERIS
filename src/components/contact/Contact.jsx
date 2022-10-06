@@ -102,16 +102,16 @@ const Contact = () => {
           <form ref={formRef} onSubmit={handleSubmit}>
             <input type="text" placeholder="Name" 
             name="user_name" 
-            style={{color:darkMode ? "white" : "white" }}/>
+            style={{color:darkMode ? "white" : "white" , background:darkMode ? " " : "rgba(0, 0, 0, 0.486"}}/>
             <input type="text" placeholder="Subject" 
             name="user_subject"
-            style={{color:darkMode ? "white" : "white" }}/>
+            style={{color:darkMode ? "white" : "white" , background:darkMode ? " " : "rgba(0, 0, 0, 0.486"}}/>
             <input type="text" placeholder="Email" 
             name="user_email" 
-            style={{color:darkMode ? "white" : "white" }}/>
+            style={{color:darkMode ? "white" : "white" , background:darkMode ? " " : "rgba(0, 0, 0, 0.486"}}/>
             <textarea rows="5" placeholder="Message" 
             name="message"
-            style={{color:darkMode ? "white" : "white" }}/>
+            style={{color:darkMode ? "white" : "white" , background:darkMode ? " " : "rgba(0, 0, 0, 0.486"}}/>
             <button  style={{color:darkMode ? "white" : "black", 
             borderColor:darkMode ? "white" : "black", 
             backgroundColor:darkMode ? "black" : "white" }}>

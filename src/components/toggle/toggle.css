@@ -1,12 +1,37 @@
+.tmenu{
+    position: fixed;
+    display: flex;
+    justify-content: end;
+    height: 35px;
+    width: 100%;
+    z-index:9999;
+    background-color: rgba(255, 255, 255, 0.447);
+}
+
+p{
+    margin: 0px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.p2 {
+    margin-left: 150px;
+}
+
+.p3 {
+    margin-right: 50px;
+}
+
 .t{
     width: 50px;
     height: 25px;
     border-radius: 20px;
     border: 2px solid #fff;
     background-color: white;
-    position: fixed;
-    top: 10px;
-    right: 10px;
+    position:sticky;
+    top: 5px;
+    right: 10px; 
     z-index: 999;
     display: flex;
     align-items: center;
@@ -16,6 +41,15 @@
 .t-icon{
     width: 15px;
     height: 15px;
+    position: absolute;
+    left: 0;
+}
+
+.t-icon1{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    right: 0;
 }
 
 .t-button{
