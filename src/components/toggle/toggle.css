@@ -6,7 +6,7 @@
     background-color: white;
     position:absolute;
     top: 5px;
-    right: 50px; 
+    left: 50px; 
     z-index: 999;
     display: flex;
     align-items: center;
