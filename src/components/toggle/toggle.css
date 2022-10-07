@@ -17,21 +17,20 @@
     width: 25px;
     height: 20px;
     left: 0;
+    position: relative;
 }
 
 .t-icon1{
     width: 25px;
     height: 20px;
     right: 0;
+    position: relative;
 }
 
 .t-button{
     width: 25px;
     height: 25px;
-    border-radius: 50%;
-    top: 0;
-    left: 0px;
-    right: 0px;
+    border-radius: 100%;
     position: absolute;
     cursor: pointer;
 }
