@@ -28,15 +28,16 @@ body{
 }
 
 .tog{    
-    width: 90px;
+    width: 50px;
     height: 25px;
     display: flex;
     border-radius: 50px;
-    border: 2px solid #fff;
-    background-color: rgb(148, 148, 148);
+    border: none;
+    background-color:none;
     position:fixed; 
     z-index: 9999;
     align-items: center;
+    margin-top: 2px;
     left: 5px;
 }
 

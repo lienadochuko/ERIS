@@ -13,7 +13,9 @@ const Toggel = () => {
   }
   return (
       <div className="t" 
-    style={{backgroundColor:theme.state.darkMode ? "#fff" : "#222", border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" }}
+    style={{backgroundColor:theme.state.darkMode ? "#fff" : "#222",
+     border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" , 
+     borderRadius:theme.state.darkMode ? "50px" : "50px"}}
     >
         <img src={Sun} alt="" className="t-icon" />
         <img src={Moon} alt="" className="t-icon1" />

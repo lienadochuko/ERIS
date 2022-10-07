@@ -2,26 +2,22 @@
     width: 50px;
     height: 25px;
     display: flex;
-    border-radius: 50px;
-    border: 2px solid #fff;
-    background-color: white;
-    position:fixed; 
-    z-index: 9999;
+    background: none;
+    background-color: none;
     align-items: center;
-    left: 5px;
 }
 
 .t-icon{
-    width: 25px;
+    width: 23px;
     height: 20px;
-    left: 0;
+    margin-right: 2px;
     position: relative;
 }
 
 .t-icon1{
-    width: 25px;
+    width: 23px;
     height: 20px;
-    right: 0;
+    margin-right: 2px;
     position: relative;
 }
 
