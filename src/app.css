@@ -27,6 +27,19 @@ body{
     background-color: rgba(255, 255, 255, 0.447);
 }
 
+.tog{    
+    width: 90px;
+    height: 25px;
+    display: flex;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    background-color: rgb(148, 148, 148);
+    position:fixed; 
+    z-index: 9999;
+    align-items: center;
+    left: 5px;
+}
+
 .p1{
     margin-top: 10px;
     margin-left: 15px;

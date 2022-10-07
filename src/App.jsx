@@ -32,7 +32,7 @@ const App = () => {
      <div className='tmenu' 
      style={{color:darkMode ? "black" : "white" , 
      background:darkMode ? "rgba(255, 255, 255, 0.447)" : "rgba(0, 0, 0, 0.486"}}>
-      <Toggel/>
+      <div className="tog" ><Toggel/></div>
       <div className='p2' onClick={() => scollToRef.current.scrollIntoView()} >Home</div>
       <div className='p1' onClick={() => scollToRef1.current.scrollIntoView()}>About</div>
       <div className='p1' onClick={() => scollToRef2.current.scrollIntoView()}>Product</div>
