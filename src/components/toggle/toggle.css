@@ -4,10 +4,9 @@
     border-radius: 50px;
     border: 2px solid #fff;
     background-color: white;
-    position:absolute;
+    position:fixed;
     top: 0px;
-    left: 50px;
-    right: 70%;
+    right: 10px;
     bottom: 5px; 
     margin-top: 5px;
     margin-bottom: 5px;
@@ -36,8 +35,8 @@
     height: 25px;
     border-radius: 50%;
     top: 0;
-    left: 50px;
-    right: 70%;
+    left: 0px;
+    right: 0px;
     position: absolute;
     cursor: pointer;
 }
