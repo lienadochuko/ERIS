@@ -4,7 +4,7 @@
     border-radius: 20px;
     border: 2px solid #fff;
     background-color: white;
-    position:sticky;
+    position:absolute;
     top: 5px;
     right: 10px; 
     z-index: 999;
