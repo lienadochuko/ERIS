@@ -1,32 +1,27 @@
 .t{
     width: 50px;
     height: 25px;
+    display: flex;
     border-radius: 50px;
     border: 2px solid #fff;
     background-color: white;
-    position:fixed;
-    top: 0px;
-    right: 10px;
-    bottom: 5px; 
+    position:fixed; 
     margin-top: 5px;
     margin-bottom: 5px;
+    margin-right: 10px;
     z-index: 9999;
-    display: flex;
     align-items: center;
-    justify-content: space-around;
 }
 
 .t-icon{
-    width: 15px;
-    height: 15px;
-    position: relative;
+    width: 25px;
+    height: 20px;
     left: 0;
 }
 
 .t-icon1{
-    width: 15px;
-    height: 15px;
-    position: relative;
+    width: 25px;
+    height: 20px;
     right: 0;
 }
 
