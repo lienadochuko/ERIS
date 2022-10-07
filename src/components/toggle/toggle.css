@@ -36,6 +36,8 @@
     height: 25px;
     border-radius: 50%;
     top: 0;
+    left: 50px;
+    right: 70%;
     position: absolute;
     cursor: pointer;
 }
