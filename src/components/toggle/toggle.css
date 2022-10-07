@@ -11,6 +11,9 @@
     margin-right: 10px;
     z-index: 9999;
     align-items: center;
+    justify-content: center;
+    text-align: center;
+    left: 5px;
 }
 
 .t-icon{
