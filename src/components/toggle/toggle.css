@@ -6,7 +6,7 @@
     background-color: white;
     position:absolute;
     top: 5px;
-    right: 10px; 
+    right: 50px; 
     z-index: 999;
     display: flex;
     align-items: center;
@@ -16,14 +16,14 @@
 .t-icon{
     width: 15px;
     height: 15px;
-    position: absolute;
+    position: relative;
     left: 0;
 }
 
 .t-icon1{
     width: 15px;
     height: 15px;
-    position: absolute;
+    position: relative;
     right: 0;
 }
 
