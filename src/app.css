@@ -32,8 +32,6 @@ body{
     height: 25px;
     display: flex;
     border-radius: 50px;
-    border: none;
-    background-color: none;
     position:fixed; 
     z-index: 9999;
     align-items: center;
