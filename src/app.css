@@ -62,3 +62,17 @@ body{
     cursor: pointer;
     font-weight: 500;
 }
+
+@media screen and (max-width: 480px) {
+    .p1{
+        font-size: 10px;
+    }
+    
+    .p2 {
+        font-size: 10px;
+    }
+    
+    .p3 {
+        font-size: 10px;
+    }
+}
