@@ -32,12 +32,13 @@ body{
     height: 25px;
     display: flex;
     border-radius: 50px;
-    border: 1px solid #fff;
-    background-color: rgb(6, 6, 6);
+    border: none;
+    background-color: none;
     position:fixed; 
     z-index: 9999;
     align-items: center;
     margin-top: 2px;
+    margin-right: 10px;
 }
 
 .p1{
