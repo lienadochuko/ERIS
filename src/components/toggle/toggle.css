@@ -1,7 +1,7 @@
 .t{
     width: 50px;
     height: 25px;
-    border-radius: 20px;
+    border-radius: 50px;
     border: 2px solid #fff;
     background-color: white;
     position:absolute;
@@ -52,6 +52,6 @@
         width: 25px;
         height: 25px;
         border-radius: 50%;
-        position: relative;
+        position: absolute;
     }
 }
