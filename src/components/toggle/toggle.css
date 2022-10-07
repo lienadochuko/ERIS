@@ -5,8 +5,9 @@
     border: 2px solid #fff;
     background-color: white;
     position:absolute;
-    top: 5px;
+    top: 0px;
     left: 50px;
+    right: 70%;
     bottom: 5px; 
     margin-top: 5px;
     margin-bottom: 5px;
@@ -47,6 +48,15 @@
     position: fixed;
     scroll-behavior: smooth;
     }
+
+    .t-icon{
+        position: relative;
+    }
+    
+    .t-icon1{
+        position: relative;
+    }
+    
 
     .t-button{
         width: 25px;
