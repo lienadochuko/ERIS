@@ -10,6 +10,11 @@ export const products = [
      link: "http://eris.dev",
     },
     {
+      id: 6,
+      img: "https://user-images.githubusercontent.com/66309753/196287094-e370a961-1ded-40cd-ae2b-dc3bf040cbab.png",
+      link: "http://eris.dev",
+     },
+    {
       id: 1,
       img: "https://user-images.githubusercontent.com/66309753/183770995-bbc4903f-c7be-45da-ad6d-34ddd851419f.png",
       link: "http://eris.dev",
