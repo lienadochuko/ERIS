@@ -21,12 +21,12 @@ export const products = [
     },
     {
       id: 2,
-      img: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/bc9c1f143800479.6281681f96261.png",
+      img: "https://user-images.githubusercontent.com/66309753/225274296-b1c5113d-5c0d-4ac1-8e6a-57582d2c8ff7.png",
       link: "https://www.behance.net/gallery/143800479/SphereBank-UIUX",
     },
     {
       id: 3,
-      img: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/540887133647453.61c25cbbe265d.png",
+      img: "https://user-images.githubusercontent.com/66309753/183708776-9e6a6f7e-4ead-476d-a4cd-4e401d6e066d.png",
       link: "http://eris.dev",
     },
 ];
