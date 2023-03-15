@@ -19,7 +19,6 @@ export const products = [
       img: "https://user-images.githubusercontent.com/66309753/183770995-bbc4903f-c7be-45da-ad6d-34ddd851419f.png",
       link: "https://erhisdaniel.netlify.app/",
     },
-    },
     {
       id: 2,
       img: "https://user-images.githubusercontent.com/66309753/225274296-b1c5113d-5c0d-4ac1-8e6a-57582d2c8ff7.png",
