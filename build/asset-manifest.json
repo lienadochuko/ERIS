@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77d4c42b.css",
+    "main.js": "/static/js/main.399772e7.js",
+    "static/media/jobberman.png": "/static/media/jobberman.6a012a814e6cb6b23826.png",
+    "static/media/Meritorious Service.png": "/static/media/Meritorious Service.3092d4122a5a0366fc3b.png",
+    "static/media/scc.png": "/static/media/scc.263f5629b9343457a880.png",
+    "static/media/certificate-cola.png": "/static/media/certificate-cola.13fee66fcfa86b9ff51e.png",
+    "static/media/HRBA.png": "/static/media/HRBA.5a5f6bf67bf685b352e4.png",
+    "static/media/driven3.png": "/static/media/driven3.39b5a0c105bfca717d44.png",
+    "static/media/driven.png": "/static/media/driven.4a76046068b7a60f566b.png",
+    "static/media/Ultimate-React-Course.png": "/static/media/Ultimate-React-Course.8fc0bf274397ae061469.png",
+    "static/media/Secure Coding.png": "/static/media/Secure Coding.6bea247d28c0818d68db.png",
+    "static/media/Asp.Net Core 7.png": "/static/media/Asp.Net Core 7.58f2680d900bf341667a.png",
+    "static/media/monokaifira.png": "/static/media/monokaifira.f577f3bf35bccd049017.png",
+    "static/media/address.png": "/static/media/address.1b30aa58764da319a9ec.png",
+    "static/media/sun.png": "/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/moon.png": "/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/instagram.svg": "/static/media/instagram.b0c484b364dc559b8644b7f3d38ce69c.svg",
+    "static/media/email.svg": "/static/media/email.28108a264de23d46d1ac0b7c543978a2.svg",
+    "static/media/phone.svg": "/static/media/phone.ff741894bdb05560b50f851eea399f74.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.0e9d1475aeaf2fd8af65120d3c6f82fe.svg",
+    "index.html": "/index.html",
+    "main.77d4c42b.css.map": "/static/css/main.77d4c42b.css.map",
+    "main.399772e7.js.map": "/static/js/main.399772e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d4c42b.css",
+    "static/js/main.399772e7.js"
+  ]
+}
