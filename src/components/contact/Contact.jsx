@@ -112,7 +112,7 @@ const Contact = () => {
             <textarea rows="5" placeholder="Message" 
             name="message"
             style={{color:darkMode ? "white" : "white" , background:darkMode ? " " : "rgba(0, 0, 0, 0.486"}}/>
-            <button  style={{color:darkMode ? "white" : "black", 
+            <button className='Btn' style={{color:darkMode ? "white" : "black", 
             borderColor:darkMode ? "white" : "black", 
             backgroundColor:darkMode ? "black" : "white" }}>
               Submit</button>

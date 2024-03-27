@@ -30,10 +30,11 @@ const App = () => {
   <div style={{backgroundColor:darkMode ? "#222" : "white", 
   color:darkMode && "white" }} className="homie">
      <div className='tmenu' 
-     style={{color:darkMode ? "black" : "white" , 
-     background:darkMode ? "rgba(255, 255, 255, 0.447)" : "rgba(0, 0, 0, 0.486"}}>
+    //  style={{color:darkMode ? "black" : "white" , 
+    //  background:darkMode ? "rgba(255, 255, 255, 0.447)" : "rgba(0, 0, 0, 0.486"}}
+     >
       <div className="tog" 
-      style={{backgroundColor:theme.state.darkMode ? "#fff" : "#222",
+      style={{
       border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" , 
       borderRadius:theme.state.darkMode ? "50px" : "50px"}}><Toggel/></div>
       <div className='p2' onClick={() => scollToRef.current.scrollIntoView()} >Home</div>

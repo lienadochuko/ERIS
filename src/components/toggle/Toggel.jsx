@@ -14,14 +14,15 @@ const Toggel = () => {
   return (
       <div className="t" 
     style={{backgroundColor:theme.state.darkMode ? "#fff" : "#222",
-     border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" , 
+     border:theme.state.darkMode ? "2px solid #fff" : "2px solid #222" ,
+     alignItems:'center', justifyContent:'center', display:'flex',
      borderRadius:theme.state.darkMode ? "50px" : "50px"}}
     >
         <img src={Sun} alt="" className="t-icon" />
         <img src={Moon} alt="" className="t-icon1" />
         <div className="t-button" onClick={handleClick} 
         style={{left: theme.state.darkMode ? 0 : 25, 
-        backgroundColor:theme.state.darkMode ? "#222" : "rgb(172, 167, 2)"}}
+        backgroundColor:theme.state.darkMode ? "#222" : "#34B5C9"}}
          ></div>
     </div>
   )

@@ -1,5 +1,6 @@
 import "./intro.css";
-import driven3 from "../../images/driven3.png";
+import driven from "../../images/driven3.png";
+import driven3 from "../../images/monokaifira.png";
 
 
 const Intro = () => {
@@ -7,8 +8,8 @@ const Intro = () => {
     <div className="i">
         <div className="i-left">
             <div className="i-left-wrapper">
-                <h2 className="i-intro">Hello, I am</h2>
-                <h1 className="i-name">Erhisohwode Daniel Ochuko </h1>
+                <span className="i-intro">Hello, I am</span>
+                <span className="i-name">Erhisohwode Daniel Ochuko </span>
                 <div className="i-title">
                     <div className="i-title-wrapper">
                         <div className="i-title-item">Web Developer</div>
@@ -19,7 +20,7 @@ const Intro = () => {
                     </div>
                 </div>
                 <p className="i-desc">
-                    I Design and develop Websites for customers, I specialize in creating
+                    I design and develop Websites for customers, I specialize in creating
                     stylish, modern websites, online stores, web services and even site-Cloning.
                 </p>
             </div>
