@@ -1,5 +1,4 @@
 import "./intro.css";
-import driven from "../../images/driven3.png";
 import driven3 from "../../images/monokaifira.png";
 
 
