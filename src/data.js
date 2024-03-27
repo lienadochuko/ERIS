@@ -6,17 +6,17 @@ export const products = [
    },
     {
       id: 1,
-      img: "https://private-user-images.githubusercontent.com/66309753/317224024-bdd9316a-bd4f-45a3-8b4a-52e141b84ad3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE1MzU1MDcsIm5iZiI6MTcxMTUzNTIwNywicGF0aCI6Ii82NjMwOTc1My8zMTcyMjQwMjQtYmRkOTMxNmEtYmQ0Zi00NWEzLThiNGEtNTJlMTQxYjg0YWQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI3VDEwMjY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhYjgzMDIyZmE4NDNlN2JhMDgxMzhkYjU2YTk1NjE2YmYwYTNhNjNhZWQyMmVhYTQ3MTc0NDk4NDMwMGMwYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xKC_JXl_yO2G_g9o4cYcBUP3Ft9hzrpYZIWnyE3UO3w",
+      img: "https://github.com/lienadochuko/dos-app/blob/gh-pages/img/screencapture-lendsqr-gilt-vercel-app-2024-03-27-11_20_18.png?raw=true",
       link: "https://lendsqr-gilt.vercel.app/",
     },
     {
       id: 2,
-      img: "https://private-user-images.githubusercontent.com/66309753/317224838-b0064734-ab06-48a4-a835-fc3218bfab72.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE1MzU1MDcsIm5iZiI6MTcxMTUzNTIwNywicGF0aCI6Ii82NjMwOTc1My8zMTcyMjQ4MzgtYjAwNjQ3MzQtYWIwNi00OGE0LWE4MzUtZmMzMjE4YmZhYjcyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI3VDEwMjY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkM2NjMDA4YmI4ODA3NDY2YmY0MjVmNzhjYzk5YjcxMjYxOWVjYzgzODIxMTFkMGFmYzEzOGNiNzNiZjA5ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.70OmC1Ge23W9kiGguxGaRiXArvgiDMFuRVG72CnKOOg",
+      img: "https://github.com/lienadochuko/dos-app/blob/gh-pages/img/screencapture-space-tourism-multi-page-ten-vercel-app-2024-03-27-11_24_37.png?raw=true",
       link: "https://space-tourism-multi-page-ten.vercel.app/",
     },
     {
       id: 3,
-      img: "https://private-user-images.githubusercontent.com/66309753/317224858-bd683059-375d-40eb-a95e-dceb62bd48e9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE1MzU1MDcsIm5iZiI6MTcxMTUzNTIwNywicGF0aCI6Ii82NjMwOTc1My8zMTcyMjQ4NTgtYmQ2ODMwNTktMzc1ZC00MGViLWE5NWUtZGNlYjYyYmQ0OGU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI3VDEwMjY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxNTA1ODY1OTk5YzFhODQxNjg2ODIwMWJkNzU1YjM0ODg5NTc2YjI2OWNkODkzZDM0NTRhOGFjODZmNjNjMDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9DezI63pYg5qES3pzwjQ9tFsIYF31nEIfLKIDUwxwZk",
+      img: "https://github.com/lienadochuko/dos-app/blob/gh-pages/img/screencapture-dan-multi-step-form-vercel-app-2024-03-27-11_25_04.png?raw=true",
       link: "https://dan-multi-step-form.vercel.app/",
     },
     {
